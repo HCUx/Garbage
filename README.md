@@ -1,2 +1,2 @@
 # Garbage
-Everything is here that i learnt.
+Everything is here that I learned.
